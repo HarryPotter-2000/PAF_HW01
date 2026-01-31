@@ -1,0 +1,3 @@
+Project Name: My First GitHub Project
+Created by: Student
+Purpose: Practice Git and GitHub
